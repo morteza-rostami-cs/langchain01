@@ -1,0 +1,10 @@
+
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+ollama
+chromadb
+dotenv
+#langchain draw graph
+grandalf
