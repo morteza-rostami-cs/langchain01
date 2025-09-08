@@ -29,7 +29,12 @@ def main():
   # import src.lessons.lesson9
   # import src.lessons.lesson10
   # import src.lessons.lesson11
-  import src.course1.lesson1
+  # import src.course1.lesson1
+  # import src.course1.lesson2
+  # import src.course1.lesson3
+  # import src.course1.lesson4
+  # import src.course1.lesson5
+  import src.course1.lesson6
   print("\nthis is the main file\n")
 
 if __name__ == "__main__":
