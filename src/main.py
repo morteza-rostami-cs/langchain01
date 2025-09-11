@@ -34,7 +34,9 @@ def main():
   # import src.course1.lesson3
   # import src.course1.lesson4
   # import src.course1.lesson5
-  import src.course1.lesson6
+  # import src.course1.lesson6
+  # import src.course1.lesson7
+  import src.course1.lesson8__rag
   print("\nthis is the main file\n")
 
 if __name__ == "__main__":
